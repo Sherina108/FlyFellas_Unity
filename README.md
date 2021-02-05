@@ -1,0 +1,2 @@
+# FlyFellas_Unity
+FlyFellas adalah game yang termotivasi dari game flappy bird. Di mana tokoh utama dari game ini adalah peaswat dengan obstacle atau rintangannya berupa balon udara. Di sini saya berkontribusi dalam tampilan home, cara bermain, button, dan codingan untuk obstacle/ rintangan dan jump untuk pesawat. Game ini juga dibuat bersama-sama dengan tim yang berjumlah 3 orang termasuk saya sendiri dengan menggunakan UNITY
